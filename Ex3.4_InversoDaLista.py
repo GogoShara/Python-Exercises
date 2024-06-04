@@ -8,3 +8,4 @@ while (esq < dire):
     esq = esq + 1
     dire = dire - 1
 print (lista)
+input("Digite Enter para fechar")
